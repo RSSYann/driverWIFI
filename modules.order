@@ -1,0 +1,10 @@
+/etc/driverWIFI/rtw89core.ko
+/etc/driverWIFI/rtw_8851b.ko
+/etc/driverWIFI/rtw_8851be.ko
+/etc/driverWIFI/rtw_8852a.ko
+/etc/driverWIFI/rtw_8852ae.ko
+/etc/driverWIFI/rtw_8852b.ko
+/etc/driverWIFI/rtw_8852be.ko
+/etc/driverWIFI/rtw_8852c.ko
+/etc/driverWIFI/rtw_8852ce.ko
+/etc/driverWIFI/rtw89pci.ko
