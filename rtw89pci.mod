@@ -1,0 +1,2 @@
+/etc/driverWIFI/pci.o
+
